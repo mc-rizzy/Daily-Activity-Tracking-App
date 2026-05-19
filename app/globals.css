@@ -24,3 +24,14 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+/* Add these custom utilities for your tracker grid */
+@utility grid-cols-15 {
+  grid-template-columns: repeat(15, minmax(0, 1fr));
+}
+
+@utility grid-cols-21 {
+  grid-template-columns: repeat(21, minmax(0, 1fr));
+}

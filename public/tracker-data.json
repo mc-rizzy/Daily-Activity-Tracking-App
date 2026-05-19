@@ -1,0 +1,637 @@
+[
+  {
+    "dayNumber": 1,
+    "agenda": [
+      "Genesis 1-3"
+    ]
+  },
+  {
+    "dayNumber": 2,
+    "agenda": [
+      "Genesis 4-6"
+    ]
+  },
+  {
+    "dayNumber": 3,
+    "agenda": [
+      "Genesis 7-9"
+    ]
+  },
+  {
+    "dayNumber": 4,
+    "agenda": [
+      "Genesis 10-12"
+    ]
+  },
+  {
+    "dayNumber": 5,
+    "agenda": [
+      "Genesis 13-15"
+    ]
+  },
+  {
+    "dayNumber": 6,
+    "agenda": [
+      "Genesis 16-18"
+    ]
+  },
+  {
+    "dayNumber": 7,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 8,
+    "agenda": [
+      "Genesis 19-21"
+    ]
+  },
+  {
+    "dayNumber": 9,
+    "agenda": [
+      "Genesis 22-24"
+    ]
+  },
+  {
+    "dayNumber": 10,
+    "agenda": [
+      "Genesis 25-27"
+    ]
+  },
+  {
+    "dayNumber": 11,
+    "agenda": [
+      "Genesis 28-30"
+    ]
+  },
+  {
+    "dayNumber": 12,
+    "agenda": [
+      "Genesis 31-33"
+    ]
+  },
+  {
+    "dayNumber": 13,
+    "agenda": [
+      "Genesis 34-36"
+    ]
+  },
+  {
+    "dayNumber": 14,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 15,
+    "agenda": [
+      "Genesis 37-39"
+    ]
+  },
+  {
+    "dayNumber": 16,
+    "agenda": [
+      "Genesis 40-42"
+    ]
+  },
+  {
+    "dayNumber": 17,
+    "agenda": [
+      "Genesis 43-45"
+    ]
+  },
+  {
+    "dayNumber": 18,
+    "agenda": [
+      "Genesis 46-48"
+    ]
+  },
+  {
+    "dayNumber": 19,
+    "agenda": [
+      "Genesis 49-50",
+      "Exodus 1"
+    ]
+  },
+  {
+    "dayNumber": 20,
+    "agenda": [
+      "Exodus 2-4"
+    ]
+  },
+  {
+    "dayNumber": 21,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 22,
+    "agenda": [
+      "Exodus 5-7"
+    ]
+  },
+  {
+    "dayNumber": 23,
+    "agenda": [
+      "Exodus 8-10"
+    ]
+  },
+  {
+    "dayNumber": 24,
+    "agenda": [
+      "Exodus 11-13"
+    ]
+  },
+  {
+    "dayNumber": 25,
+    "agenda": [
+      "Exodus 14-16"
+    ]
+  },
+  {
+    "dayNumber": 26,
+    "agenda": [
+      "Exodus 17-19"
+    ]
+  },
+  {
+    "dayNumber": 27,
+    "agenda": [
+      "Exodus 20-22"
+    ]
+  },
+  {
+    "dayNumber": 28,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 29,
+    "agenda": [
+      "Exodus 23-25"
+    ]
+  },
+  {
+    "dayNumber": 30,
+    "agenda": [
+      "Exodus 26-28"
+    ]
+  },
+  {
+    "dayNumber": 31,
+    "agenda": [
+      "Exodus 29-31"
+    ]
+  },
+  {
+    "dayNumber": 32,
+    "agenda": [
+      "Exodus 32-34"
+    ]
+  },
+  {
+    "dayNumber": 33,
+    "agenda": [
+      "Exodus 35-37"
+    ]
+  },
+  {
+    "dayNumber": 34,
+    "agenda": [
+      "Exodus 38-40"
+    ]
+  },
+  {
+    "dayNumber": 35,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 36,
+    "agenda": [
+      "Leviticus 1-3"
+    ]
+  },
+  {
+    "dayNumber": 37,
+    "agenda": [
+      "Leviticus 4-6"
+    ]
+  },
+  {
+    "dayNumber": 38,
+    "agenda": [
+      "Leviticus 7-9"
+    ]
+  },
+  {
+    "dayNumber": 39,
+    "agenda": [
+      "Leviticus 10-12"
+    ]
+  },
+  {
+    "dayNumber": 40,
+    "agenda": [
+      "Leviticus 13-15"
+    ]
+  },
+  {
+    "dayNumber": 41,
+    "agenda": [
+      "Leviticus 16-18"
+    ]
+  },
+  {
+    "dayNumber": 42,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 43,
+    "agenda": [
+      "Leviticus 19-21"
+    ]
+  },
+  {
+    "dayNumber": 44,
+    "agenda": [
+      "Leviticus 22-24"
+    ]
+  },
+  {
+    "dayNumber": 45,
+    "agenda": [
+      "Leviticus 25-27"
+    ]
+  },
+  {
+    "dayNumber": 46,
+    "agenda": [
+      "Numbers 1-3"
+    ]
+  },
+  {
+    "dayNumber": 47,
+    "agenda": [
+      "Numbers 4-6"
+    ]
+  },
+  {
+    "dayNumber": 48,
+    "agenda": [
+      "Numbers 7-9"
+    ]
+  },
+  {
+    "dayNumber": 49,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 50,
+    "agenda": [
+      "Numbers 10-12"
+    ]
+  },
+  {
+    "dayNumber": 51,
+    "agenda": [
+      "Numbers 13-15"
+    ]
+  },
+  {
+    "dayNumber": 52,
+    "agenda": [
+      "Numbers 16-18"
+    ]
+  },
+  {
+    "dayNumber": 53,
+    "agenda": [
+      "Numbers 19-21"
+    ]
+  },
+  {
+    "dayNumber": 54,
+    "agenda": [
+      "Numbers 22-24"
+    ]
+  },
+  {
+    "dayNumber": 55,
+    "agenda": [
+      "Numbers 25-27"
+    ]
+  },
+  {
+    "dayNumber": 56,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 57,
+    "agenda": [
+      "Numbers 28-30"
+    ]
+  },
+  {
+    "dayNumber": 58,
+    "agenda": [
+      "Numbers 31-33"
+    ]
+  },
+  {
+    "dayNumber": 59,
+    "agenda": [
+      "Numbers 34-36"
+    ]
+  },
+  {
+    "dayNumber": 60,
+    "agenda": [
+      "Deuteronomy 1-3"
+    ]
+  },
+  {
+    "dayNumber": 61,
+    "agenda": [
+      "Deuteronomy 4-6"
+    ]
+  },
+  {
+    "dayNumber": 62,
+    "agenda": [
+      "Deuteronomy 7-9"
+    ]
+  },
+  {
+    "dayNumber": 63,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 64,
+    "agenda": [
+      "Deuteronomy 10-12"
+    ]
+  },
+  {
+    "dayNumber": 65,
+    "agenda": [
+      "Deuteronomy 13-15"
+    ]
+  },
+  {
+    "dayNumber": 66,
+    "agenda": [
+      "Deuteronomy 16-18"
+    ]
+  },
+  {
+    "dayNumber": 67,
+    "agenda": [
+      "Deuteronomy 19-21"
+    ]
+  },
+  {
+    "dayNumber": 68,
+    "agenda": [
+      "Deuteronomy 22-24"
+    ]
+  },
+  {
+    "dayNumber": 69,
+    "agenda": [
+      "Deuteronomy 25-27"
+    ]
+  },
+  {
+    "dayNumber": 70,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 71,
+    "agenda": [
+      "Deuteronomy 28-30"
+    ]
+  },
+  {
+    "dayNumber": 72,
+    "agenda": [
+      "Deuteronomy 31-33"
+    ]
+  },
+  {
+    "dayNumber": 73,
+    "agenda": [
+      "Deuteronomy 34",
+      "Joshua 1-2"
+    ]
+  },
+  {
+    "dayNumber": 74,
+    "agenda": [
+      "Joshua 3-5"
+    ]
+  },
+  {
+    "dayNumber": 75,
+    "agenda": [
+      "Joshua 6-8"
+    ]
+  },
+  {
+    "dayNumber": 76,
+    "agenda": [
+      "Joshua 9-11"
+    ]
+  },
+  {
+    "dayNumber": 77,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 78,
+    "agenda": [
+      "Joshua 12-14"
+    ]
+  },
+  {
+    "dayNumber": 79,
+    "agenda": [
+      "Joshua 15-17"
+    ]
+  },
+  {
+    "dayNumber": 80,
+    "agenda": [
+      "Joshua 18-20"
+    ]
+  },
+  {
+    "dayNumber": 81,
+    "agenda": [
+      "Joshua 21-23"
+    ]
+  },
+  {
+    "dayNumber": 82,
+    "agenda": [
+      "Joshua 24",
+      "Judges 1-2"
+    ]
+  },
+  {
+    "dayNumber": 83,
+    "agenda": [
+      "Judges 3-5"
+    ]
+  },
+  {
+    "dayNumber": 84,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 85,
+    "agenda": [
+      "Judges 6-8"
+    ]
+  },
+  {
+    "dayNumber": 86,
+    "agenda": [
+      "Judges 9-11"
+    ]
+  },
+  {
+    "dayNumber": 87,
+    "agenda": [
+      "Judges 12-14"
+    ]
+  },
+  {
+    "dayNumber": 88,
+    "agenda": [
+      "Judges 15-17"
+    ]
+  },
+  {
+    "dayNumber": 89,
+    "agenda": [
+      "Judges 18-20"
+    ]
+  },
+  {
+    "dayNumber": 90,
+    "agenda": [
+      "Judges 21",
+      "Ruth 1-2"
+    ]
+  },
+  {
+    "dayNumber": 91,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 92,
+    "agenda": [
+      "Ruth 3-4",
+      "1 Samuel 1"
+    ]
+  },
+  {
+    "dayNumber": 93,
+    "agenda": [
+      "1 Samuel 2-4"
+    ]
+  },
+  {
+    "dayNumber": 94,
+    "agenda": [
+      "1 Samuel 5-7"
+    ]
+  },
+  {
+    "dayNumber": 95,
+    "agenda": [
+      "1 Samuel 8-10"
+    ]
+  },
+  {
+    "dayNumber": 96,
+    "agenda": [
+      "1 Samuel 11-13"
+    ]
+  },
+  {
+    "dayNumber": 97,
+    "agenda": [
+      "1 Samuel 14-16"
+    ]
+  },
+  {
+    "dayNumber": 98,
+    "agenda": [
+      "Rest Day"
+    ]
+  },
+  {
+    "dayNumber": 99,
+    "agenda": [
+      "1 Samuel 17-19"
+    ]
+  },
+  {
+    "dayNumber": 100,
+    "agenda": [
+      "1 Samuel 20-22"
+    ]
+  },
+  {
+    "dayNumber": 101,
+    "agenda": [
+      "1 Samuel 23-25"
+    ]
+  },
+  {
+    "dayNumber": 102,
+    "agenda": [
+      "1 Samuel 26-28"
+    ]
+  },
+  {
+    "dayNumber": 103,
+    "agenda": [
+      "1 Samuel 29-31"
+    ]
+  },
+  {
+    "dayNumber": 104,
+    "agenda": [
+      "Yay we did it"
+    ]
+  },
+  {
+    "dayNumber": 105,
+    "agenda": [
+      "Rest Day"
+    ]
+  }
+]
