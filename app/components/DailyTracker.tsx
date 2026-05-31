@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import React, { useState, useEffect } from "react";
 
 interface DayData {
@@ -156,6 +158,15 @@ export default function DailyTracker() {
   return (
     <div className={`relative w-full min-h-screen flex flex-col justify-between p-6 md:p-10 ${COLORS.textPrimary} overflow-hidden`}>
       
+      <div className="absolute top-6 left-1/2 -translate-x-1/2 z-20">
+      <Link 
+        href="/summaries"
+        className="px-4 py-1.5 text-xs font-mono font-medium tracking-wider uppercase border border-zinc-800 bg-zinc-900 text-zinc-300 rounded-full hover:bg-zinc-800 hover:text-zinc-100 hover:border-zinc-600 transition-all duration-200 shadow-md"
+      >
+        Summaries
+      </Link>
+    </div>
+    
       {/* Full-Screen Background Stripes Layer */}
       <div className="absolute inset-0 w-full h-full flex pointer-events-none z-0 px-6 md:px-10">
         <div className="w-full max-w-5xl mx-auto grid grid-cols-15 h-full gap-0.5">
