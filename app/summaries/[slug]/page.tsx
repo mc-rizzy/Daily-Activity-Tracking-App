@@ -85,7 +85,9 @@ export default async function SummaryDetailPage({ params }: SummaryDetailProps) 
 
               {/* Variant B: Rendered as Pure, Unnumbered Prose if YAML Block Literal String */}
               {notesIsString && (
-                <div className="text-sm leading-relaxed text-zinc-300 font-sans whitespace-pre-wrap">
+                <div className="text-sm leading-relaxed text-zinc-300 font-sans whitespace-pre-wrap
+                  [&_h1]:text-2xl [&_h1]:font-bold [&_h1]:my-4
+                  ">
                     <div>{parse(data.notes)}</div>
                 </div>
                 )}
